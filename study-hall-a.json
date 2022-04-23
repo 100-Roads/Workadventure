@@ -531,7 +531,7 @@
         {
          "columns":41,
          "firstgid":1,
-         "image":"src\/assets\/Study hall  fg.png",
+         "image":"src\/assets\/Study_hall_fg.png",
          "imageheight":964,
          "imagewidth":1315,
          "margin":0,
@@ -544,7 +544,7 @@
         {
          "columns":41,
          "firstgid":1231,
-         "image":"src\/assets\/Study hall  bg.png",
+         "image":"src\/assets\/Study_hall_bg.png",
          "imageheight":964,
          "imagewidth":1315,
          "margin":0,
