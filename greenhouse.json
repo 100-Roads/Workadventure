@@ -71,7 +71,7 @@
            {
             "columns":37,
             "firstgid":1,
-            "image":"src\/dJ2GGOCqb4cFAd5CXYlA2V.jpeg",
+            "image":"src\/assets\/dJ2GGOCqb4cFAd5CXYlA2V.jpeg",
             "imageheight":600,
             "imagewidth":1200,
             "margin":0,
@@ -84,7 +84,7 @@
            {
             "columns":37,
             "firstgid":667,
-            "image":"src\/1acCxoXB7gu9ioUjfBMawr.png",
+            "image":"src\/assets\/1acCxoXB7gu9ioUjfBMawr.png",
             "imageheight":600,
             "imagewidth":1200,
             "margin":0,
@@ -97,7 +97,7 @@
            {
             "columns":6,
             "firstgid":1333,
-            "image":"WA_Special_Zones.png",
+            "image":"src\/assets\/WA_Special_Zones.png",
             "imageheight":64,
             "imagewidth":192,
             "margin":0,
