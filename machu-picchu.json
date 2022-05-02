@@ -199,7 +199,7 @@
            {
             "columns":60,
             "firstgid":1,
-            "image":"assets\/WxNdlvoi51hqO3mKCPHkgj.png",
+            "image":"src\/assets\/WxNdlvoi51hqO3mKCPHkgj.png",
             "imageheight":1080,
             "imagewidth":1920,
             "margin":0,
@@ -212,7 +212,7 @@
            {
             "columns":60,
             "firstgid":1981,
-            "image":"assets\/D6IQyct9oPdzgOAWs1BSe8.png",
+            "image":"src\/assets\/D6IQyct9oPdzgOAWs1BSe8.png",
             "imageheight":1080,
             "imagewidth":1920,
             "margin":0,
