@@ -665,7 +665,7 @@
            {
             "columns":34,
             "firstgid":13,
-            "image":"assets\/ME7vdmfTg3VRu89haGlWIe.png",
+            "image":"src\/assets\/ME7vdmfTg3VRu89haGlWIe.png",
             "imageheight":930,
             "imagewidth":1092,
             "margin":0,
@@ -678,7 +678,7 @@
            {
             "columns":34,
             "firstgid":999,
-            "image":"assets\/ufTyJHe7nNFPLDthjZLykC.png",
+            "image":"src\/assets\/ufTyJHe7nNFPLDthjZLykC.png",
             "imageheight":930,
             "imagewidth":1092,
             "margin":0,
