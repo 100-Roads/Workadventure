@@ -31,3 +31,12 @@ function closePopUp(){
         currentPopup = undefined;
     }
 }
+
+// JULIA Special zone roof test disapier 
+const myLayerVisibility = WA.room.onEnterLayer("test_roof_dynamical").subscribe(() => {
+    WA.room.hideLayer("test_roof_dynamical");
+  });
+  
+  WA.room.onLeaveLayer("test_roof_dynamical").subscribe(() => {
+    WA.room.showLayer("test_roof_dynamical");
+  });
