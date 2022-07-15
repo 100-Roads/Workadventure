@@ -7948,7 +7948,7 @@
         {
          "columns":215,
          "firstgid":10214,
-         "image":"src\/assets\/Hospitality Cluster Tileset.png",
+         "image":"src\/assets\/HospitalityClusterTileset.png",
          "imageheight":3648,
          "imagewidth":6880,
          "margin":0,
@@ -7961,7 +7961,7 @@
         {
          "columns":114,
          "firstgid":34724,
-         "image":"src\/assets\/Hospitality Cluster roof.png",
+         "image":"src\/assets\/HospitalityClusterroof.png",
          "imageheight":2208,
          "imagewidth":3650,
          "margin":0,
