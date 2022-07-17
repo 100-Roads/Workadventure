@@ -40,3 +40,15 @@ const myLayerVisibility = WA.room.onEnterLayer("test_roof_dynamical").subscribe(
   WA.room.onLeaveLayer("test_roof_dynamical").subscribe(() => {
     WA.room.showLayer("test_roof_dynamical");
   });
+
+// JULIA TEST SCHOOL
+ 
+const myLayerVisibilitySchoolTEST = WA.room.onEnterLayer("cluster1building-floor").subscribe(() => {
+    WA.room.hideLayer("cluster1roof");
+    WA.room.hideLayer("custer1front-wall-lobby");
+  });
+  
+  WA.room.onLeaveLayer("cluster1building-floor").subscribe(() => {
+    WA.room.showLayer("cluster1roof");
+    WA.room.showLayer("custer1front-wall-lobby");
+  });
